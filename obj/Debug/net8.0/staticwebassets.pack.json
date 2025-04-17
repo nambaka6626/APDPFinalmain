@@ -1,0 +1,93 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\code_thu_4_new\\StudentManagementsecond (1)\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\StudentManagementsecond.bundle.scp.css",
+      "PackagePath": "staticwebassets\\StudentManagementsecond.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\code_thu_4_new\\StudentManagementsecond (1)\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\code_thu_4_new\\StudentManagementsecond (1)\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\code_thu_4_new\\StudentManagementsecond (1)\\wwwroot\\images\\auth-background.jpg",
+      "PackagePath": "staticwebassets\\images\\auth-background.jpg"
+    },
+    {
+      "Id": "D:\\code_thu_4_new\\StudentManagementsecond (1)\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\code_thu_4_new\\StudentManagementsecond (1)\\wwwroot\\lib\\bootstrap-5.3.5-dist.zip",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-5.3.5-dist.zip"
+    },
+    {
+      "Id": "D:\\code_thu_4_new\\StudentManagementsecond (1)\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\code_thu_4_new\\StudentManagementsecond (1)\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\code_thu_4_new\\StudentManagementsecond (1)\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\code_thu_4_new\\StudentManagementsecond (1)\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\code_thu_4_new\\StudentManagementsecond (1)\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\code_thu_4_new\\StudentManagementsecond (1)\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\code_thu_4_new\\StudentManagementsecond (1)\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\code_thu_4_new\\StudentManagementsecond (1)\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\code_thu_4_new\\StudentManagementsecond (1)\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\code_thu_4_new\\StudentManagementsecond (1)\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\code_thu_4_new\\StudentManagementsecond (1)\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\code_thu_4_new\\StudentManagementsecond (1)\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.StudentManagementsecond.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.StudentManagementsecond.props",
+      "PackagePath": "build\\StudentManagementsecond.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.StudentManagementsecond.props",
+      "PackagePath": "buildMultiTargeting\\StudentManagementsecond.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.StudentManagementsecond.props",
+      "PackagePath": "buildTransitive\\StudentManagementsecond.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

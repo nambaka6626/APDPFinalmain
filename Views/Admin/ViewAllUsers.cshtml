@@ -1,0 +1,22 @@
+﻿@model List<StudentManagement.Models.User>
+<h2 class="mb-4">All Users</h2>
+<table class="table table-striped table-bordered">
+    <thead class="table-dark">
+        <tr>
+            <th>ID</th>
+            <th>Username</th>
+            <th>Role</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var user in Model)
+        {
+            <tr>
+                <td>@user.Id</td>
+                <td>@user.Username</td>
+                <td>@user.Role</td>
+            </tr>
+        }
+    </tbody>
+</table>
+<a asp-controller="Admin" asp-action="Index" class="btn btn-secondary">Back to Dashboard</a>
